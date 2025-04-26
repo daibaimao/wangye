@@ -1,0 +1,26 @@
+.red {
+    color: yellow; font-size: 40px;
+    width: 270px;
+    height: 70px;
+    background-color: red;
+    font-weight: 500;
+    font-style: italic;
+    line-height: 70px;
+    font-family: sans-serif;
+}
+.gao{
+    line-height: 40px;
+    width: 400px;
+    height: 200px;
+    background-color: blanchedalmond;
+
+}
+.yao{
+    color: pink;
+}
+.yaoyi{
+    width: 200px;
+    height: 340px;
+    color: fuchsia;
+    background-color: aqua;
+}
